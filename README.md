@@ -1,2 +1,3 @@
 # starc-demo
-this is my first repo
+This is my first repo.
+Author - Adarsh Shukla
